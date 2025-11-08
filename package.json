@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/como-votar-en",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a como-votar-en",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/como-votar-en.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://www.logicfen.org/blog/como-votar-en-la-casa-de-los-famosos/"
+    },
+    "homepage": "https://www.logicfen.org/blog/como-votar-en-la-casa-de-los-famosos/"
+}
